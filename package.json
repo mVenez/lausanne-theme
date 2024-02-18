@@ -1,0 +1,26 @@
+{
+  "name": "ven-theme",
+  "displayName": "ven-theme",
+  "description": "vs code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ven-mac",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ven-mac-color-theme.json"
+      },
+	{
+        "label": "ven-linux",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ven-linux-color-theme.json"
+      }	
+    ]
+  }
+}
