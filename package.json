@@ -2,7 +2,7 @@
 	"name": "ven-theme",
 	"displayName": "ven-theme",
 	"description": "vs code theme",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.82.0"
 	},
