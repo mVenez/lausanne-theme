@@ -2,7 +2,8 @@
 	"name": "lausanne-theme",
 	"displayName": "Lausanne Theme",
 	"description": "A dark theme for VS Code.",
-	"publisher": "Lausanne Theme",
+	"publisher": "lausanne-theme",
+	"repository": "https://github.com/mVenez/lausanne-theme",
 	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.82.0"
