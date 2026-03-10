@@ -1,29 +1,32 @@
 {
-	"name": "ven-theme",
-	"displayName": "ven-theme",
-	"description": "vs code theme",
-	"version": "0.0.2",
+	"name": "lausanne-theme",
+	"displayName": "Lausanne Theme",
+	"description": "A dark theme for VS Code.",
+	"publisher": "Lausanne Theme",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.82.0"
 	},
 	"categories": [
 		"Themes"
 	],
+	"keywords": ["theme", "dark", "color-theme", "lausanne"],
 	"contributes": {
 		"themes": [
 			{
-				"label": "ven-mac",
+				"label": "Lausanne",
 				"uiTheme": "vs-dark",
-				"path": "./themes/ven-mac-color-theme.json"
+				"path": "./themes/lausanne.json"
 			},
 			{
-				"label": "ven-linux",
+				"label": "Lausanne Minimal",
 				"uiTheme": "vs-dark",
-				"path": "./themes/ven-linux-color-theme.json"
+				"path": "./themes/lausanne-minimal.json"
 			}
 		]
 	},
 	"__metadata": {
 		"size": 60247
-	}
+	},
+	"license" : "MIT"
 }
