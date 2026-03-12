@@ -1,17 +1,23 @@
 {
 	"name": "lausanne-theme",
 	"displayName": "Lausanne Theme",
-	"description": "A dark theme for VS Code.",
+	"description": "A simple dark theme for Visual Studio Code.",
+	"icon": "./assets/lausanne.png",
 	"publisher": "lausanne-theme",
 	"repository": "https://github.com/mVenez/lausanne-theme",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.82.0"
 	},
 	"categories": [
 		"Themes"
 	],
-	"keywords": ["theme", "dark", "color-theme", "lausanne"],
+	"keywords": [
+		"theme",
+		"dark",
+		"color-theme",
+		"lausanne"
+	],
 	"contributes": {
 		"themes": [
 			{
@@ -29,5 +35,5 @@
 	"__metadata": {
 		"size": 60247
 	},
-	"license" : "MIT"
+	"license": "MIT"
 }
