@@ -1,5 +1,10 @@
 # Change Log
 
-## [Unreleased]
+## [0.0.5]
+- Added screenshot in README
 
-- Initial theme
+## [0.0.4]
+- Added extension icon
+
+## [0.0.3]
+- Initial release 

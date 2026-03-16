@@ -1,6 +1,7 @@
 # Lausanne
 A simple dark theme for Visual Studio Code.
 
+![assets](assets/screen1.png "Screen 1") 
 
 ## Variants
 - **Lausanne**, the classic version 
